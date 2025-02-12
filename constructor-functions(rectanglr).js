@@ -8,6 +8,6 @@ function Rectangle(width , height){
 }
 
 
-let frist = new Rectangle ( 1 , 2 ) 
+let frist = new Rectangle ( 1 , 4 ) 
 frist.getArea() 
 // result = width is 1 and height is 2 Area of ​​the rectangle is 2
